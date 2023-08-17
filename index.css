@@ -1,0 +1,18 @@
+.coupon-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .coupon {
+    width: 200px;
+    height: 100px;
+    background-color: lightgray;
+    margin-bottom: 10px;
+  }
+  
+  .hidden-element {
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    cursor: pointer;
+  }
